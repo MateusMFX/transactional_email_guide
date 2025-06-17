@@ -2,6 +2,7 @@
 layout: page
 title: Medidas Preventivas
 permalink: /medidas-preventivas/
+nav_order: 3
 ---
 
 # Medidas Preventivas

@@ -2,6 +2,7 @@
 layout: page
 title: Gestão
 permalink: /gestao/
+nav_order: 5
 ---
 
 # Gestão
