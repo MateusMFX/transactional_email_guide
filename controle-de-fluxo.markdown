@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Medidas Preventivas
-permalink: /medidas-preventivas/
+title: Controle de fluxo
+permalink: /controle-de-fluxo/
 ---
 
 # Controle de fluxo
@@ -13,6 +13,8 @@ Controle de fluxo no envio de emails é o gerenciamento de quantas mensagens de 
 É importante que sejam limitados os envios por janelas de tempo, alguns provedores divulgam esses limites para quem faz envio de emails em massa:
 
 [Google](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
+[Microsoft](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/strengthening-email-ecosystem-outlook%E2%80%99s-new-requirements-for-high%E2%80%90volume-senders/4399730)
+[Yahoo!](https://senders.yahooinc.com/best-practices/)
 
 Estabeler e controlar o número de mensagens que são enviadas numa janela de tempo pode ajudar a manter uma boa reputação, e evitar que suas mensagens caiam na caixa de SPAM.
 
