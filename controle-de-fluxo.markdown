@@ -61,10 +61,3 @@ judy@sample.org
 Da forma listada acima, nenhum dos domínios vai receber mais de uma mensagem seguida, permitindo um maior fluxo de envio, e correndo menos risco de ultrapassar os limites impostos pelos domínios.
 
 Numa lista com 10 endereços de email e 3 domínios diferentes isso não faria muita diferença, porém, em larga escala, com uma amostra grande o bastante, essa ordenação se faz muito importante.
-
-# Gestão
-O envio de e-mails é acompanhado de certas responsabilidades, que o remetente deve gerenciar para manter uma taxa de entrega alta.
-## Reputação
-### Complaints
-### Bounces
-### Inscrições
