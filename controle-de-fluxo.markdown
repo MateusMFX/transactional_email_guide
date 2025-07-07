@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Controle de fluxo
-permalink: /controle-de-fluxo/
+title: Encadeamento e controle de envio
+permalink: /encadeamento-e-controle-de-envio/
 nav_order: 2
 ---
 
-# Controle de fluxo
+# Encadeamento e controle de envio
 
 Controle de fluxo no envio de emails é o gerenciamento de quantas mensagens de email seu sistema envia. Provedores de email impõe limites em quantas mensagens podem ser enviadas por janelas de tempo segundo/minuto/hora/dia. Esses limites são colocados para evitar sobrecarga no servidor e grandes quantidades de SPAM.
 

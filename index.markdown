@@ -11,9 +11,8 @@ Aqui você vai encontrar as melhores práticas, ferramentas e documentos para um
 ## Seções
 
 - [Identidades]({{ site.baseurl }}/identidades)
-- [Controle de fluxo]({{ site.baseurl }}/controle-de-fluxo)
+- [Encadeamento e controle de envio]({{ site.baseurl }}/encadeamento-e-controle-de-envio)
 - [Medidas preventivas]({{ site.baseurl }}/medidas-preventivas)
-- [Gestão]({{ site.baseurl }}/gestao)
 
 ## Sobre
 

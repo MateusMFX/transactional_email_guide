@@ -42,3 +42,7 @@ A validação pode ser feita por expressões regulares ou por diversas bibliotec
 |Apache Commons Validator      |Java         |<https://commons.apache.org/proper/commons-validator>  |
 |Presente na biblioteca padrão |Go           |<https://pkg.go.dev/net/mail#ParseAddress>                  |
 |email-address                 |Rust         |<https://crates.io/crates/email-address> |
+
+# Gestão
+
+- [Gestão]({{ site.baseurl }}/gestao)
